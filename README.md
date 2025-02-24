@@ -8,4 +8,5 @@ I was first introduced to Neural Networks through a PESU I/O course called Neura
 - Tensorboard.ipynb
 - TikToken.ipynb
 - Visualizing Probabilities.ipynb
+
 The remaining notebooks have been created by me for course assignments or personal projects.

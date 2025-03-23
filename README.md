@@ -10,3 +10,5 @@ I was first introduced to Neural Networks through a PESU I/O course called Neura
 - Visualizing Probabilities.ipynb
 
 The remaining notebooks have been created by me for course assignments or personal projects.
+
+This also contains files from an autoencoder project I am currently working on.
